@@ -16,8 +16,6 @@ Ortiz Collaborative is a leading provider of IT contracting and consulting servi
 
 Get in Touch:
 
-🌐 Website: www.ortizcollaborative.com
-📧 Email: info@ortizcollaborative.com
-🐦 Twitter: @OrtizCollab
+📧 Email: info@ortizcollab.com
 
 Let's build the future of technology, one line of code at a time. Join us and be part of something remarkable!
