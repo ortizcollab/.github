@@ -1,6 +1,6 @@
 # 🚀 Fueling Business Success with Innovative IT Solutions! 🌐
 
-Ortiz Collaborative is a leading provider of IT contracting and consulting services for small to medium-sized businesses. Our mission is simple: empower organizations to thrive in today's fast-paced business landscape by leveraging the right technology, talent, and strategic vision.
+Ortiz Collaborative is a provider of IT contracting and consulting services for small to medium-sized businesses. Our mission is simple: empower organizations to thrive in today's fast-paced business landscape by leveraging the right technology, talent, and strategic vision.
 
 🔧 Building Solutions, Together:
 
